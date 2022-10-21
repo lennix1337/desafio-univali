@@ -1,6 +1,7 @@
-npm install --legacy-peer-deps
+##### Requires node.js to be installed
 
+`npm install --legacy-peer-deps`
 
-npm start
+`npm start`
 
-go to localhost:3000
+Go to localhost:3000 
